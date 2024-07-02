@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile! 💻
 
-I'm a Software Engineer and Web Developer based in the Philippines. 🇵🇭
+I'm a Software Engineer | Web Developer based in the Philippines. :philippines:
 
 ## ⌨ Let's Connect
 
