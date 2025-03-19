@@ -4,7 +4,7 @@ Welcome to my GitHub Profile! 💻
 
 I'm a Software Engineer | Web Developer based in the Philippines. :philippines:
 
-~More active on Azure DevOps Repositories~
+~ More active on Azure DevOps Repositories ~
 
 ## ⌨ Let's Connect
 
